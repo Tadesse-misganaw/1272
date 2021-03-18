@@ -1,0 +1,6 @@
+first name: misganaw
+last name:tadesse
+ID:1272
+section:b
+year:2013/2
+semester: II
